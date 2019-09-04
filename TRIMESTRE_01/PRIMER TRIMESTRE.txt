@@ -1,0 +1,1 @@
+Aquí encontraremos la distintas versiones de la presentacion del proyecto, de los requerimientos, mapa de procesos, formato ieee-830, diagrama de casos de uso, casos de uso extendido y bpmn
